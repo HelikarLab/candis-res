@@ -1,2 +1,2 @@
 # candis-res
-Sample Data for candis. github.com/achillesrasquinha/candis
+Sample Data for CancerDiscover and candis. github.com/achillesrasquinha/candis
